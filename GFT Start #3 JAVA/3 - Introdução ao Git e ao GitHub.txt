@@ -1,0 +1,15 @@
+- Noções básicas de Git-GitHub
+- Instalação do Git
+- Criar um repositório
+
+
+Comandos Básicos Git:
+- Mudas pastas
+- Listas -----
+- Criar  -----
+- Deletar ----
+
+- cd
+- dir
+- mkdir
+- del

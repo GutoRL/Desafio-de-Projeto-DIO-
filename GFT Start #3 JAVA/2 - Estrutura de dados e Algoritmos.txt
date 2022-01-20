@@ -1,0 +1,32 @@
+Estrutura de Dados
+É uma estrutura organizada de dados na memória de um computador em qualquer dispisitivo de armazenamento, de forma que os dados possam ser utilizados de forma correta.
+
+Vetores e Matrizes ou Arrays
+São estruturas de dados simples que podem auxiliar quando há há muitas variáveis do mesmo tipo em um algoritmo.
+
+Registros
+É uma estrutura que fornece um formato especializado para armazenar informações em memória.
+
+------
+
+Listas
+Estrutura de dados do tipo Lista, armazena dados de um determinado tipo em uma odem específica.
+
+Pilhas
+Uma estrutura de dados que serve como coleção de elementos, e permite o acesso a somente um item de dados aremazenado.
+
+Filas
+Estrutura do tipo Fila admite remoção de elementos e inserção de novos sujeita à seguinte regra de operação:
+O elemento removido é o que está na estutura há mais tempo.
+
+------
+
+Estrutura do tipo Árvores
+É uma estrutura de dados que organiza seus elementos de forma hierárquica, onde existe um elemento que fica no topo da árvore, chamado de raiz e existem os elementos subordinados a ele, que são chamados de nós ou folhas.
+
+Tabela Hash
+Uma tabela hash, de dispersão ou espalhamento é uma estrutura de dados especial, que associa chaves de pesquisa a valores.
+
+Grafos
+São estruturas que permitem programar a relação entre objetos.
+Os objetos são véstices ou nós do grafo, e os Relacionamentos são arestas.

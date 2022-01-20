@@ -1,0 +1,42 @@
+De inicío vimos uma introdução a lógica e programação:
+
+
+-Lógica
+Coerência de raciocínio, de ideias.
+
+- Algoritmos
+É uma sequência de passos que resolve um problema.
+
+- Pseudocódigos
+É uma forma genérica de escrever um algoritmo, utilizando uma linguaguem simples.
+
+- Fluxograma
+Ferreamenta para representar um algoritmo.
+
+- Váriaveis
+Na programação, um objeto capaz de reter e representar um valor ou expressão.
+
+- Constantes
+Valores imutáveis.
+
+- Concatenação
+É um termo usado em computação para designar a operação de unir duas strings*.
+*String é uma sequência de caracteres.
+
+
+Introdução ao Portugol:
+
+
+- Portugol
+É uma pseudolinguagem que permite ao leitor desenvolver aloritmos estruturados em português.
+
+- Estrututa de repetição
+Dentro da programação, é uma estrutura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos.
+
+- Matriz
+Coleção de variáveis do mesmo tipo.
+
+A individualização de cada variável de um vetor é feita através de uso de índices.
+
+- Vetores
+São matrizes de uma só dimensão.
